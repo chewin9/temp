@@ -19,3 +19,12 @@
 2. 이
 3. 삼
 4. 사
+
+
+## OpenCV: Open Source Computer Vision Library
+
+
+### Resources
+
+* Homepage: <https://opencv.org>
+  * Courses: <https://opencv.org/courses>
